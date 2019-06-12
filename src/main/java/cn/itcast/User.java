@@ -37,6 +37,6 @@ public class User {
         System.out.println("Git...");
     }
     public void method() {
-        System.out.println("gg");
+        System.out.println("kj");
     }
 }
